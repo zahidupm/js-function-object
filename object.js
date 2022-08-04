@@ -20,5 +20,5 @@ var myComputer = {
 }
 
 console.log(myComputer);
-myComputer.color = 'white';
+myComputer.color = 'white'; // changing any properties from object
 console.log(myComputer);
